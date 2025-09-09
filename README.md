@@ -31,4 +31,4 @@ Interactive **Power BI dashboard** for comprehensive e-commerce analytics, track
 - **RFM-based Customer Segmentation:** Treemap with drill-through to segment-level insights & recommendations  
 
 ## 🔗 Links
-- **🔴 Live Dashboard:** [View Here]([https://app.powerbi.com/view?r=eyJrIjoiMjUxYWZiYzItOWMwMC00NzdiLTkyYWMtMDYxNzlmMDI3OWQ0IiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiOWJlZjRkMTQtMzY3Yi00ZjBmLTk0MzMtYWU5NGE3Y2ZiMTNiIiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D))
+- **🔴 Live Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiOWJlZjRkMTQtMzY3Yi00ZjBmLTk0MzMtYWU5NGE3Y2ZiMTNiIiwidCI6IjA5MzEzOTE3LTRiODctNDBhOC04NjM3LWU3NDMyZDc1NDY4NiIsImMiOjEwfQ%3D%3D)
